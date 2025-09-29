@@ -41,3 +41,5 @@ Example:
 | 1700         | 340000    |
 | 1800         | 360000    |
 | 1900         | 380000    |
+
+<img width="647" height="451" alt="image" src="https://github.com/user-attachments/assets/00c9009b-4e74-441b-8389-f44130927a74" />
